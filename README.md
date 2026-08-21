@@ -14,3 +14,20 @@ I'm a **QA Engineer** focused on software quality, test automation, and financia
 Currently focusing on building stronger skills in **Test Automation, API Testing, Performance Testing, and CI/CD**.
 
 > **Test smarter. Ship with confidence.**
+
+## 🛠️ Tech Stack
+
+### QA & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=playwright,selenium,cypress,postman,jmeter" />
+</p>
+
+### Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,sql" />
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</p>
