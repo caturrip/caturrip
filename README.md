@@ -20,7 +20,7 @@ Currently focusing on building stronger skills in **Test Automation, API Testing
 ### 🧪 QA & Test Automation
 <p>
   <img src="https://skillicons.dev/icons?i=selenium,cypress,postman" height="50" />
-  <img src="https://cdn.simpleicons.org/playwright" height="50" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="50" /> 
   <img src="https://cdn.simpleicons.org/apachejmeter" height="50" />
 </p>
 
