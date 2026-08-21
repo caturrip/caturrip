@@ -17,17 +17,19 @@ Currently focusing on building stronger skills in **Test Automation, API Testing
 
 ## 🛠️ Tech Stack
 
-### QA & Automation
+### 🧪 QA & Test Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=jmeter,selenium,cypress,postman,playwright" />
+  <img src="https://skillicons.dev/icons?i=selenium,cypress,postman" height="50" />
+  <img src="https://cdn.simpleicons.org/playwright" height="50" />
+  <img src="https://cdn.simpleicons.org/apachejmeter" height="50" />
 </p>
 
-### Programming
+### 💻 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,sql" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python" height="50" />
 </p>
 
-### Tools & DevOps
+### 🔧 Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" height="50" />
 </p>
