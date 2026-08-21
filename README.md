@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @caturrip
-- 👀 I’m interested in Technology & Analytics Data
-- 🌱 I’m currently learning about Analytics Data and all about Technology
-- 💞️ I’m looking to collaborate on Analytics Data
-- 📫 How to reach me caturrip@gmail.com
+# Catur Urip Surojati Panuntun
 
-<!---
-caturrip/caturrip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**QA Engineer | Core Banking | Test Automation**
+
+QA Engineer with experience in **Oracle Flexcube, Acumen.Plus, banking system integrations, and end-to-end testing**.
+
+🔹 Manual & Functional Testing
+🔹 API & Integration Testing
+🔹 Oracle Flexcube & Core Banking
+🔹 Acumen.Plus & Banking Integrations
+🔹 Test Automation — Playwright, Cypress, Selenium
+🔹 Performance Testing — JMeter
+🔹 SQL & Database Testing
+🔹 CI/CD & Quality Engineering
+
+Currently expanding my skills in **test automation, performance testing, and modern QA engineering practices**.
+
+> *Quality is not just about finding bugs — it's about building confidence in every release.*
+
+📍 Indonesia
