@@ -1,20 +1,16 @@
-# Catur Urip Surojati Panuntun
+# 👋 Hi, I'm Catur Urip
 
-**QA Engineer | Core Banking | Test Automation**
+### QA Engineer → Automation QA / SDET
 
-QA Engineer with experience in **Oracle Flexcube, Acumen.Plus, banking system integrations, and end-to-end testing**.
+I'm a **QA Engineer** focused on software quality, test automation, and financial technology.
 
-🔹 Manual & Functional Testing
-🔹 API & Integration Testing
-🔹 Oracle Flexcube & Core Banking
-🔹 Acumen.Plus & Banking Integrations
-🔹 Test Automation — Playwright, Cypress, Selenium
-🔹 Performance Testing — JMeter
-🔹 SQL & Database Testing
-🔹 CI/CD & Quality Engineering
+🏦 **Core Banking:** Oracle Flexcube, Acumen.Plus
+🧪 **Testing:** Functional, Integration, API, E2E
+🤖 **Automation:** Playwright, Cypress, Selenium, Appium
+⚡ **Performance:** JMeter
+🗄️ **Database:** SQL
+🔗 **Integration:** REST API & Banking Systems
 
-Currently expanding my skills in **test automation, performance testing, and modern QA engineering practices**.
+Currently focusing on building stronger skills in **Test Automation, API Testing, Performance Testing, and CI/CD**.
 
-> *Quality is not just about finding bugs — it's about building confidence in every release.*
-
-📍 Indonesia
+> **Test smarter. Ship with confidence.**
