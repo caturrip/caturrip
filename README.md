@@ -19,7 +19,7 @@ Currently focusing on building stronger skills in **Test Automation, API Testing
 
 ### QA & Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=playwright,selenium,cypress,postman,jmeter" />
+  <img src="https://skillicons.dev/icons?i=jmeter,selenium,cypress,postman,playwright" />
 </p>
 
 ### Programming
